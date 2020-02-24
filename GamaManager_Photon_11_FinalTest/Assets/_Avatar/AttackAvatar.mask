@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AttackAvatar
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: hips
+    m_Weight: 1
+  - m_Path: hips/Root
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Index.1.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Index.1.L/Index.2.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Index.1.L/Index.2.L/Index.3.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Index.1.L/Index.2.L/Index.3.L/Index.3.L_end
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Little.1.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Little.1.L/little_l_2
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Little.1.L/little_l_2/Little.3.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Little.1.L/little_l_2/Little.3.L/Little.3.L_end
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Middle.1.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Middle.1.L/Middle.2.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Middle.1.L/Middle.2.L/Middle.3.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Middle.1.L/Middle.2.L/Middle.3.L/Middle.3.L_end
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Ring.1.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Ring.1.L/Ring.2.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Ring.1.L/Ring.2.L/Ring.3.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Ring.1.L/Ring.2.L/Ring.3.L/Ring.3.L_end
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Thumb.1.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Thumb.1.L/Thumb.2.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Thumb.1.L/Thumb.2.L/Thumb.3.L
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.L/Shoulder.L/Forearm.L/Hand.L/Thumb.1.L/Thumb.2.L/Thumb.3.L/Thumb.3.L_end
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Index.1.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Index.1.R/Index.2.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Index.1.R/Index.2.R/Index.3.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Index.1.R/Index.2.R/Index.3.R/Index.3.R_end
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Little.1.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Little.1.R/Little.2.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Little.1.R/Little.2.R/Little.3.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Little.1.R/Little.2.R/Little.3.R/Little.3.R_end
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Middle.1.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Middle.1.R/Middle.2.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Middle.1.R/Middle.2.R/Middle.3.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Middle.1.R/Middle.2.R/Middle.3.R/Middle.3.R_end
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Ring.1.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Ring.1.R/Ring.2.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Ring.1.R/Ring.2.R/Ring.3.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Ring.1.R/Ring.2.R/Ring.3.R/Ring.3.R_end
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Thumb.1.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Thumb.1.R/Thumb.2.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Thumb.1.R/Thumb.2.R/Thumb.3.R
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Clavicle.R/Shoulder.R/Forearm.R/Hand.R/Thumb.1.R/Thumb.2.R/Thumb.3.R/Thumb.3.R_end
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Neck
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: hips/Root/Spine1/Spine2/Chest/Neck/Head/Head_end
+    m_Weight: 1
+  - m_Path: hips/Root/Thigh.L
+    m_Weight: 1
+  - m_Path: hips/Root/Thigh.L/Shin.L
+    m_Weight: 1
+  - m_Path: hips/Root/Thigh.L/Shin.L/Foot.L
+    m_Weight: 1
+  - m_Path: hips/Root/Thigh.L/Shin.L/Foot.L/Toe.L
+    m_Weight: 1
+  - m_Path: hips/Root/Thigh.L/Shin.L/Foot.L/Toe.L/Toe.L_end
+    m_Weight: 1
+  - m_Path: hips/Root/Thigh.R
+    m_Weight: 1
+  - m_Path: hips/Root/Thigh.R/Shin.R
+    m_Weight: 1
+  - m_Path: hips/Root/Thigh.R/Shin.R/Foot.R
+    m_Weight: 1
+  - m_Path: hips/Root/Thigh.R/Shin.R/Foot.R/Toe.R
+    m_Weight: 1
+  - m_Path: hips/Root/Thigh.R/Shin.R/Foot.R/Toe.R/Toe.R_end
+    m_Weight: 1
+  - m_Path: male_accessory
+    m_Weight: 1
+  - m_Path: male_arm
+    m_Weight: 1
+  - m_Path: male_chest
+    m_Weight: 1
+  - m_Path: male_feet
+    m_Weight: 1
+  - m_Path: male_forearm
+    m_Weight: 1
+  - m_Path: male_hat
+    m_Weight: 1
+  - m_Path: male_head
+    m_Weight: 1
+  - m_Path: male_legs
+    m_Weight: 1
+  - m_Path: male_pants
+    m_Weight: 1
+  - m_Path: male_pelvis
+    m_Weight: 1
+  - m_Path: male_shirt
+    m_Weight: 1
+  - m_Path: male_shoes
+    m_Weight: 1
+  - m_Path: male_spine
+    m_Weight: 1
